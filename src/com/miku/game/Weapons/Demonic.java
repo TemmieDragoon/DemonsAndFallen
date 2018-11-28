@@ -10,5 +10,11 @@ public class Demonic {
     //ManifesterSword
 
 
-    //
+    //SerVersta
+
+
+    //GraviSheath
+
+
+
 }
